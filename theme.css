@@ -10,6 +10,13 @@ body {
 	--slider-thumb-radius: 0px;
 }
 
+.theme-dark {
+	--background-primary: #22070F;
+	--background-primary-alt: #320B16;
+	--background-secondary: #2a0912;
+	--background-secondary-alt: #3f0e1c;
+}
+
 .workspace-tab-header.is-active::before, .workspace-tab-header.is-active::after {
 	display: none;
 }
